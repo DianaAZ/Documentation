@@ -1,0 +1,6 @@
+<title>Bluefly Marketplace Integration</title>
+<code>
+  public void setName(String name) {
+    this.name = name;
+  }
+</code>
